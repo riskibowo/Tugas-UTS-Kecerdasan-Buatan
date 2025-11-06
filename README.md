@@ -28,6 +28,8 @@ except Exception as e:
     print(f"Error mengunduh NLTK: {e}")
 
 print("-" * 50)
+<img width="522" height="220" alt="image" src="https://github.com/user-attachments/assets/1ea92132-c2ca-4b72-b45e-8278c5aded41" />
+
 
 
 # #############################################################
@@ -60,6 +62,8 @@ except Exception as e:
     print(f"ERROR saat memuat data: {e}")
 
 print("-" * 50)
+<img width="469" height="179" alt="image" src="https://github.com/user-attachments/assets/9f9e514f-c96f-4886-8eb5-abdc178a6835" />
+
 
 
 # #############################################################
@@ -100,6 +104,7 @@ else:
     print("Preprocessing dilewati karena dataset tidak ter-load.")
 
 print("-" * 50)
+<img width="595" height="92" alt="image" src="https://github.com/user-attachments/assets/320a65e7-5fb6-4550-977a-dd0d6468879f" />
 
 
 # #############################################################
@@ -132,6 +137,7 @@ else:
     
 print("-" * 50)
 
+<img width="421" height="65" alt="image" src="https://github.com/user-attachments/assets/257a8a4c-a3e9-4175-bc5c-87fe5416259d" />
 
 # #############################################################
 # ## 🤖 5. Langkah 4: Pembangunan Model (Naive Bayes)
@@ -150,6 +156,7 @@ else:
     print("Langkah 4 dilewati karena data latih tidak siap.")
 
 print("-" * 50)
+<img width="841" height="413" alt="image" src="https://github.com/user-attachments/assets/b0d6cef2-76b6-4998-8118-d9c84ef11464" />
 
 
 # #############################################################
@@ -189,6 +196,7 @@ else:
     print("Langkah 5 dilewati karena model tidak dilatih.")
 
 print("-" * 50)
+<img width="834" height="495" alt="image" src="https://github.com/user-attachments/assets/de40b4bc-a92e-4048-a905-08cd57091bf5" />
 
 
 # #############################################################
@@ -229,3 +237,4 @@ else:
 
 print("-" * 50)
 print("Semua langkah pengerjaan telah selesai dieksekusi.")
+<img width="895" height="462" alt="image" src="https://github.com/user-attachments/assets/53b88455-a6da-49fd-aa60-363a8d2ab250" />
